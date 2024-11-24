@@ -1,4 +1,4 @@
-## README: Retrieval Augmented Generation (RAG) with Gemini and BigQuery/Vertex AI
+## Retrieval Augmented Generation (RAG) with Gemini and BigQuery/Vertex AI
 
 This repository demonstrates how to build a RAG system using Gemini and two different vector stores:
 
